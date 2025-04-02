@@ -58,6 +58,7 @@ ML_customer-churn/
     ├── notebooks/              # ✅ Notebooks de trabajo y prueba
     ├── results_notebook/       # ✅ Notebook final con todo el flujo limpio y funcional
     └── utils/                  # ✅ Funciones auxiliares (preprocesado, métricas, etc.)
+```
 
 ---
 
