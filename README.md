@@ -61,7 +61,7 @@ ML_customer-churn/
 
 ---
 
-🎯 Goal / Objetivo
+## 🎯 Goal / Objetivo
 
 **EN**  
 To demonstrate the ability to carry out a complete end-to-end Machine Learning project, including exploratory analysis, feature engineering, training, evaluation and model saving.
