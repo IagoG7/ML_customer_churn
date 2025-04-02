@@ -68,6 +68,6 @@ ML_customer-churn/
 Demostrar la capacidad para desarrollar un proyecto completo de Machine Learning de principio a fin, incluyendo análisis exploratorio, ingeniería de características, entrenamiento, evaluación y guardado del modelo.
 
 **EN**  
-To demonstrate the ability to carry out a complete end-to-end Machine Learning project, including exploratory analysis, feature engineering, training, evaluation and model saving.
+To demostrate the ability to carry out a complete end-to-end Machine Learning project, including exploratory analysis, feature engineering, training, evaluation and model saving.
 
 
