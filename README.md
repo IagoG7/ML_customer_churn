@@ -43,6 +43,7 @@ A complete supervised Machine Learning pipeline is applied to solve a binary cla
 
 **ES**  
 Se realiza un pipeline completo de Machine Learning supervisado para resolver un problema de clasificación binaria (Churn: Sí / No). El modelo entrenado se guarda en formato `joblib` para su reutilización. Se sigue un enfoque claro, estructurado y reproducible.
+
 ---
 
 ## 🗂️ Estructura del repositorio / Repository Structure
@@ -57,6 +58,8 @@ ML_customer-churn/
     ├── notebooks/              # ✅ Notebooks de trabajo y prueba
     ├── results_notebook/       # ✅ Notebook final con todo el flujo limpio y funcional
     └── utils/                  # ✅ Funciones auxiliares (preprocesado, métricas, etc.)
+
+---
 
 🎯 Goal / Objetivo
 
